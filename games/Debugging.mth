@@ -1,0 +1,17 @@
+appName = "Debugging App";
+
+#Hey this is a comment!
+
+[0:"Hello, \"welcome to the Menthol Debugging App!"](1:"To One",2:"To Two");
+
+[1:"This is one"](2:"To Two",3:"To Three");
+
+[2:"This is two."](1:"To One",3:"To Three",5:"To Wield Infinite Power!");
+
+[3:"This is three."](0:"Back to the beginning", 1:"To One",2:"To Two",4:"End Demo");
+
+[5:"This leads straight to 6!"](6);
+
+{6:"Bad ending!"};
+
+{4:"This is the ending!"};

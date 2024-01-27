@@ -1,0 +1,20 @@
+{
+    "compilerOptions": {
+      "target": "ESNext",
+      "module": "commonjs",
+      "strict": true,
+      "outDir": "../DungeonCrawler"
+    },
+    "files": [
+        "typescript/MentholInterpreter.ts",
+        "typescript/index.ts",
+        "typescript/MITEST.ts",
+        "typescript/deploy-commands.ts",
+        "typescript/remove-failtest.ts",
+        "typescript/GameSession.ts",
+        "typescript/commands/Debug.ts",
+        "typescript/commands/PlayGame.ts",
+        "typescript/commands/ShowGames.ts",
+        "typescript/commands/FailTest.ts"
+    ]
+  }
